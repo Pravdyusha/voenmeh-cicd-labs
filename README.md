@@ -2,7 +2,7 @@
 
 ### Языки: C++, Bash
 
-### Технологии: GitLab CI/CD • Docker • GitHub Actions
+### Технологии: GitLab CI/CD, Docker, GitHub Actions
 
 ## Изученные темы
 
